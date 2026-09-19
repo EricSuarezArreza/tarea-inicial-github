@@ -47,9 +47,3 @@ A continuación se muestra la confirmación de que mi solicitud de GitHub Educat
 GitHub Education proporciona a los estudiantes acceso a herramientas y recursos que pueden ser útiles para aprender programación y desarrollar proyectos durante sus estudios.
 
 En mi caso, he realizado correctamente el proceso de verificación y mi solicitud ha sido **aceptada**.
-
-## Fuentes consultadas
-
-* GitHub Education
-* GitHub Student Developer Pack
-* GitHub Docs
