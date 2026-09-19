@@ -40,7 +40,7 @@ Los beneficios asociados a la cuenta pueden tardar hasta **72 horas** en estar d
 
 A continuación se muestra la confirmación de que mi solicitud de GitHub Education ha sido aprobada.
 
-![Solicitud de GitHub Education aprobada](imagenes/github-education-aprobado.png)
+<img src="imagenes/github-education-aprobado.png" alt="Solicitud de GitHub Education aprobada" width="300">
 
 ## Conclusión
 
