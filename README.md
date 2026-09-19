@@ -50,10 +50,3 @@ GitHub permite almacenar y colaborar en proyectos, mientras que *Copilot* utiliz
 A continuación se incluye una captura de pantalla de la página oficial de Microsoft:
 
 ![Página oficial de Microsoft](imagenes/microsoft.png)
-
-## Fuentes consultadas
-
-* GitHub
-* Microsoft
-* GitHub Copilot
-* GitHub Education
